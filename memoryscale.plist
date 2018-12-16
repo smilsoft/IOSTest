@@ -41,7 +41,7 @@
     <string>smilsoft.MemoryScaleApp</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.1</string>
+    <string>1.2</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
